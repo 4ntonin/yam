@@ -1,6 +1,6 @@
 # Yam
 
-Ce fichier est un code pour jouer au Yam **à un joueur**.
+Ce fichier est un code pour jouer au Yam **à un joueur** réalisé en classe de première.
 
 ## Détails
 
